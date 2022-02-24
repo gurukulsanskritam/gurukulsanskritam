@@ -1,3 +1,3 @@
 # gurukulsanskritam
-04/02/2021
-This repository is created for gurukulsanskritam.com static web site
+24/02/2022
+This repository is created for gurukulsanskritam.com static web site revised under organisation 
